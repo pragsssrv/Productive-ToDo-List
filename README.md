@@ -30,3 +30,23 @@ To run the application, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/pragunsrv/To-Do_List
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd To-Do_List
+   ```
+
+3. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the application:
+   ```bash
+   npm start
+   ```
+
+## Usage
+
+Once the application is running, you can start adding tasks to your to-do list and utilize the Pomodoro timer to enhance your productivity. Enjoy managing your tasks efficiently!
