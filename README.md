@@ -29,7 +29,7 @@ To run the application, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pragunsrv/To-Do_List
+   git clone https://github.com/pragsssrv/To-Do_List
    ```
 
 2. Navigate to the project directory:
