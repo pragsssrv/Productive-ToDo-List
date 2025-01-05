@@ -1,15 +1,14 @@
 # To-Do List with Pomodoro Timer
 
 
-![Landing-Page](https://github.com/pragsssrv/To-Do-List/blob/ad77b7e75c32955dd9c813074ff62b3d60879e5f/sample/main.gif
-?raw=true)
+![Landing-Page](https://github.com/pragsssrv/Productive-ToDo-List/blob/cb057391df678f9cf9766e494d074dc37b80dd6a/sample/main.gif?raw=true)
 
 This is a minimalist to-do list application with a built-in Pomodoro timer and digital clock. The application is designed to help you manage your tasks efficiently while using the Pomodoro technique to enhance productivity. The interface is simple and clean, using a dark theme with grey, white, and black palette colors.
 
 ## Features
 
 ### To-Do List
-![Task-Page](https://github.com/pragsssrv/To-Do-List/blob/ad77b7e75c32955dd9c813074ff62b3d60879e5f/sample/task.png?raw=true)
+![Task-Page](https://github.com/pragsssrv/Productive-ToDo-List/blob/cb057391df678f9cf9766e494d074dc37b80dd6a/sample/task.png?raw=true)
 - **Add Task**: Enter a task in the input field and press "Enter" or click the "Add Task" button to add it to the list.
 - **Task Checkbox**: Each task has a checkbox to mark it as completed. When checked, the task text is crossed out.
 - **Task Timer**: Each task displays the time elapsed since it was added to the list.
@@ -19,7 +18,7 @@ This is a minimalist to-do list application with a built-in Pomodoro timer and d
   - Press the "Delete" key to remove the focused task.
 - **Delete Task**: Each task has a delete button that appears on hover, allowing you to remove the task.
 
-![Time-Page](https://github.com/pragsssrv/To-Do-List/blob/ad77b7e75c32955dd9c813074ff62b3d60879e5f/sample/time.png?raw=true)
+![Time-Page](https://github.com/pragsssrv/Productive-ToDo-List/blob/cb057391df678f9cf9766e494d074dc37b80dd6a/sample/time.png?raw=true)
 ### Digital Clock
 - **Real-Time Display**: A digital clock displays the current time in hours, minutes, and seconds, updating every second.
 
