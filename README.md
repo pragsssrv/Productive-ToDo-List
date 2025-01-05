@@ -1,7 +1,8 @@
 # To-Do List with Pomodoro Timer
 
 
-![Landing-Page](https://github.com/pragsssrv/To-Do-List/blob/ad77b7e75c32955dd9c813074ff62b3d60879e5f/sample/main.png?raw=true)
+![Landing-Page](https://github.com/pragsssrv/To-Do-List/blob/ad77b7e75c32955dd9c813074ff62b3d60879e5f/sample/main.gif
+?raw=true)
 
 This is a minimalist to-do list application with a built-in Pomodoro timer and digital clock. The application is designed to help you manage your tasks efficiently while using the Pomodoro technique to enhance productivity. The interface is simple and clean, using a dark theme with grey, white, and black palette colors.
 
